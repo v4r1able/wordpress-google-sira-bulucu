@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Google Sıra Bulucu
-Plugin URI: https://obir.ninja
+Plugin URI: https://leventemre.com
 Description: Anahtar kelimenizin sırasını istediğiniz zaman eklenti üzerinden takip edin.
 Version: 1.0
-Author: V4R1ABLE
-Author URI: https://obir.ninja
+Author: Levent Emre PAÇAL
+Author URI: https://leventemre.com
 */
 
 
