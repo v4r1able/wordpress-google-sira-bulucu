@@ -141,7 +141,7 @@ border-left:10px solid #8a8a8a;
 .mod_table .list.active{background:#fff !important; color:#black; font-weight:bold; border-left:30px solid #12b5bd}
 </style>
 <div class="sira_bulucu_form">
-<h1><span class="google1">G</span><span class="google2">o</span><span class="google3">o</span><span class="google4">g</span><span class="google5">l</span><span class="google6">e</span> Sıra Bulucu - <a href="https://obir.ninja">obir.ninja</a></h1>
+<h1><span class="google1">G</span><span class="google2">o</span><span class="google3">o</span><span class="google4">g</span><span class="google5">l</span><span class="google6">e</span> Sıra Bulucu - <a href="https://leventemre.com">leventemre.com</a></h1>
 <form action="" method="POST">
 <input type="text" name="site_adresi" placeholder="site adresi" value="<?php if(empty(trim(get_option("site_adresi")))) { echo $_SERVER["SERVER_NAME"]; } else { echo get_option(htmlspecialchars("site_adresi")); } ?>">
 <input type="text" name="anahtar_kelime" placeholder="anahtar kelime" value="<?php echo get_option("anahtar_kelime"); ?>"><br><br><select name="lokasyon">
